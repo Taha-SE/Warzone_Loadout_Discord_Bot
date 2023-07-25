@@ -13,7 +13,7 @@ You can install these dependencies using pip:
 
 ## Usage
 ### 1 Clone the Repository
-`git clone https://github.com/Taha-SE/Discord_Bot_COD_Loadout.git`
+`git clone https://github.com/Taha-SE/Warzone_Loadout_Discord_Bot.git`
 ### 2 Configure Discord API Token
 Before running the bot, you need to set up a Discord bot and get its API token.
 - Go to the Discord Developer Portal (https://discord.com/developers/applications) and create a new application.
