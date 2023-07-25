@@ -30,7 +30,8 @@ Before running the bot, you need to set up a Discord bot and get its API token.
 ## Examples
 `$meta`
 This command will display information about the top weapons and their attachments in Warzone.
-`$loadout "Grau 5.56"`
+`$loadout "Grau 5.56"`.
+
 This command will provide loadout details for the weapon "Grau 5.56" and its attachments.
 
 ## Note
