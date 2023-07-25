@@ -12,15 +12,15 @@ You can install these dependencies using pip:
 `pip install discord.py beautifulsoup4 requests`
 
 ## Usage
-### 1 Clone the Repository
+### 1. Clone the Repository
 `git clone https://github.com/Taha-SE/Warzone_Loadout_Discord_Bot.git`
-### 2 Configure Discord API Token
+### 2. Configure Discord API Token
 Before running the bot, you need to set up a Discord bot and get its API token.
 - Go to the Discord Developer Portal (https://discord.com/developers/applications) and create a new application.
 - Under the "Bot" tab, click on "Add Bot" to create a new bot.
 - Copy the token and replace 'DISCORD_API_KEY' with your bot's token in the last line of the code.
 
-### 3 Run Bot
+### 3. Run Bot
 `python main.py`
 
 ## Commands
